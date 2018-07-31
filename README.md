@@ -16,13 +16,14 @@ Before you head to the notebook make sure you've got all necessary packages inst
 pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 pip install --upgrade keras
 ```
-Install Tensorflow from the website: https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html
 
 or
 ```javascript
 sudo pip install --upgrade --no-deps git+git://github.com/Theano/Theano.git
 sudo pip install --upgrade keras
 ```
+
+Install Tensorflow from the website: https://www.tensorflow.org/versions/r0.12/get_started/os_setup.html
 
 Every feedback is welcome. Enjoy.
 ### Kacper Turek
