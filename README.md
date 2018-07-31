@@ -1,7 +1,9 @@
 # Convolutional Neural Network
 
 In this project I'll show you example of using simple convolutional neural networ for image recognition.
+
 Used image come from Keggle:
+
 https://www.kaggle.com/paultimothymooney/breast-histopathology-images/version/1
 
 Before you head to the notebook make sure you've got all necessary packages installed. If you're missing some of them use these commands:
